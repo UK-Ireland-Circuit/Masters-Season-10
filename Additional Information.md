@@ -55,7 +55,7 @@ If a team requires a stand-in for a qualifier, the stand-in must be registered a
 
 - Invite Publication: N/A
 - Seeding:
-    - [Valve Regional Standings for Europe as of April 6th 2026
+    - [Valve Regional Standings for Europe as of April 6th 2026](https://github.com/ValveSoftware/counter-strike_regional_standings/blob/main/invitation/2026/standings_europe_2026_04_06.md)
     - UKIC Season 9 Placements
     - ESEA S56 Average Placements
     - Average FACEIT ELO
