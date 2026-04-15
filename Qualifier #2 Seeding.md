@@ -1,4 +1,4 @@
-## UKIC Season 10 Masters Qualifier #1 Seeding
+## UKIC Season 10 Masters Qualifier #2 Seeding
 
 ### Teams are seeded using the following values:
 
